@@ -34,7 +34,7 @@ MANIFEST
 *.spec
 
 #Login - Info
-#login_info.json
+login_info.json
 
 # Installer logs
 pip-log.txt
